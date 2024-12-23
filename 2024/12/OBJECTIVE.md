@@ -9,5 +9,5 @@
 ## Progresso
 
 - [x] Iniciar o aprendizado de C#.
-- [ ] Aprofundar no uso de hooks no React.
+- [x] Aprofundar no uso de hooks no React.
 - [ ] Explorar os primeiros passos com .NET.
