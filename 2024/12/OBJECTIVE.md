@@ -10,4 +10,4 @@
 
 - [x] Iniciar o aprendizado de C#.
 - [x] Aprofundar no uso de hooks no React.
-- [ ] Explorar os primeiros passos com .NET.
+- [x] Explorar os primeiros passos com .NET.
